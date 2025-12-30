@@ -1,4 +1,5 @@
 # 🌤 Weather Dashboard
+[weather.bmp](https://github.com/user-attachments/files/24382383/weather.bmp)
 
 A clean and simple **Weather Dashboard** built with **Python**, providing real-time weather information using the **OpenWeatherMap API**.  
 This project includes a **Streamlit web app** for fast deployment and a **Flask implementation** for backend practice.
